@@ -8,12 +8,12 @@ Resources for overbooking :
 2. https://people.math.wisc.edu/~spagnolie/COMAP/solns/2002mcmsolutions.pdf
 .....Deepika C S     
 
-Today, I will be reaching out to my friends who book flight tickets frequently and compare their accounts' fare prices 
-to that of mine ( new user). I will also see how the pattern follows for early booking and end time booking.
+Today, I will reach out to my friends who book flight tickets frequently and compare their accounts' fare prices
+to mine ( new user). I will also see how the pattern follows for early booking and end time booking.
 ..... sourav
 
 My groupmates and I sat together and planned how to work on our respective topics.
-I also started asking for suggestions on how we could approach our presentation from a technological perspective.
+I also started asking for suggestions on approaching our presentation from a technological perspective.
 I selected the topic “Research the History of Airline Reservation Systems,” and we planned to explore how the airline booking system evolved over time — from the early days when there was a need for pre-booking systems to how technology was gradually adopted and improved.
 We also discussed the concept of overbooking tickets and realized that it is primarily beneficial for airlines, as it creates higher demand and can lead to increased pricing
 Additionally, I found some useful resources to support my topic. These include:
@@ -21,3 +21,12 @@ Additionally, I found some useful resources to support my topic. These include:
 2 . Wikipedia: Airline Reservations System
 3. History of Flight Booking: CRSs, GDS Distribution, Travel Agencies, and Online Reservations
 .....Sandeep
+
+I found out some interesting facts about overbooking and bumping by some of the resources 
+Find out the algorithm to predict the number of passengers who will miss or cancel the flight, so the passengers will not bump into each other
+Resources are : 
+https://www.altexsoft.com/blog/overbooking-airlines-bumping/ 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3367683  - algorithm 
+
+
+
